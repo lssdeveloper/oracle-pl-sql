@@ -1,0 +1,81 @@
+ Demonstrativo de Movimentacao                                            
+                                                                          
+MAXICONTA ITAU SIMPLES - AGOSTO/2017                                      
+                                                                          
+AGENCIA: 0540   CONTA: 49894-6                                            
+                                                                          
+                                                                          
+MOVIMENTACAO DA CONTA             QUANTIDADE   QUANTIDADE   QUANTIDADE    
+                                  CONTRATADA     EFETUADA    EXCEDENTE    
+FOLHA CHEQUE                             12            0            0     
+DEPOSITOS NA C/C (CHEQUE)             ISENTO           0            0     
+DEPOSITOS NA C/C (DINHEIRO)           ISENTO           0            0     
+EXTRATOS IMPRESSOS-AUTO-ATEND                                             
+    MES (E)                               4            0            0     
+    MOVIMENTO (E)                         2            0            0     
+SAQUES                                   14                               
+    QUALQUER CANAL                        4            4            0     
+    CX. ELETR. E BCO 24H                 +10           1            0     
+    GUICHE DE CAIXA                      ***           0            0     
+TRANSF RECURSO(EXCETO DOC/TED)           12                               
+    TRANSF.RECURSO (P)                   ***           0            0     
+    TRANSF.RECURSO (E/I)                               1            0     
+INTERNET                              ISENTO           8            0     
+                                                                          
+                                                                          
+----------------------------------------------------------------------    
+TRANSACOES EXCEDENTES             QUANTIDADE   TARIFA POR      TARIFAS    
+                                   EXCEDENTE    TRANSACAO        TOTAL    
+                                                     (R$)         (R$)    
+FOLHA CHEQUE                              0          1,60         0,00    
+DEPOSITOS NA C/C (CHEQUE)                 0                               
+DEPOSITOS NA C/C (DINHEIRO)               0                               
+EXTRATOS IMPRESSOS-AUTO-ATEND                                             
+    MES (E)                               0          2,10         0,00    
+    MOVIMENTO (E)                         0          2,10         0,00    
+SAQUES                                                                    
+    QUALQUER CANAL                        0          0,00         0,00    
+    CX. ELETR. E BCO 24H                  0          2,05         0,00    
+    GUICHE DE CAIXA                       0          2,45         0,00    
+TRANSF RECURSO(EXCETO DOC/TED)                                            
+    TRANSF.RECURSO (P)                    0          1,30         0,00    
+    TRANSF.RECURSO (E/I)                  0          1,05         0,00    
+INTERNET                                  0                               
+                                                                          
+                                                                          
+----------------------------------------------------------------------    
+TARIFAS DEVIDAS                                                           
+TRANSACOES EXCEDENTES                                             0,00    
+MENSALIDADE                                                      25,90    
+DESCONTO SOBRE A MENSALIDADE                                     25,90    
+                                                                          
+----------------------------------------------------------------------    
+TOTAL - VALOR DEVIDO                                              0,00    
+                                                                          
+----------------------------------------------------------------------    
+** TODOS OS PACOTES DE SERVICOS OFERECIDOS PELO ITAU CONTEM UMA           
+QUANTIDADE DE SERVICOS GRATUITOS (SERVICOS ESSENCIAIS) E UMA              
+QUANTIDADE ADICIONAL DE SERVICOS BANCARIOS QUE COMPOEM A QUANTIDADE       
+MENSAL DE CADA PACOTE. VOCE PODERA ALTERAR OU CANCELAR O PACOTE           
+CONTRATADO A QUALQUER MOMENTO NAS AGENCIAS ITAU UTILIZANDO APENAS OS      
+SERVICOS ESSENCIAIS DETERMINADOS PELO BANCO CENTRAL DISPONIVEIS PARA      
+CONTRATACAO NO ITAU AGENCIAS (4 SAQUES, 10 FOLHAS DE CHEQUE,              
+2 EXTRATOS IMPRESSOS, 2 TRANSFERENCIAS ENTRE CONTAS DA MESMA              
+INSTITUICAO).                                                             
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+----------------------------------------------------------------------    
+*** PARA CONSULTAR O VALOR E TODOS OS SERVICOS INCLUIDOS NOS PACOTES      
+DE SERVICOS CONSULTE A TABELA GERAL DE TARIFAS VIGENTE, DISPONIVEL NO     
+ITAU.COM.BR E NAS AGENCIAS ITAU OU FALE COM A NOSSA EQUIPE.               
+                                                                          
+                                                                          
+                                                                          
+----------------------------------------------------------------------    
+                                                                          
+==========================================================================
+
+
